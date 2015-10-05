@@ -14,7 +14,7 @@
     "tests"
   ],
   "dependencies": {
-    "classnames": "~2.1.5",
+    "classnames": "~2.1.0",
     "jstree": "~3.2.1"
   }
 }
